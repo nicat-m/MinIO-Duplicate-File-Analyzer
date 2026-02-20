@@ -74,7 +74,3 @@ This is a Streamlit application designed to analyze duplicate files in a MinIO b
 - `streamlit`
 - `minio`
 - `pandas`
-
-## License
-
-[MIT License](LICENSE)
